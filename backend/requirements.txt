@@ -1,0 +1,16 @@
+# Deep Learning Framework
+tensorflow
+Flask-Cors
+gunicorn
+
+# Image Processing
+Pillow
+numpy
+matplotlib
+
+# Web Framework
+Flask
+Werkzeug
+
+# Optional but recommended
+scikit-learn

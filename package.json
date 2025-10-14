@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.23.22",
+    "react-scripts": "^0.0.0"
+  },
+  "devDependencies": {
+    "@craco/craco": "^5.9.0"
+  }
+}
