@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "framework": "create-react-app",
+  "installCommand": "yarn --cwd frontend install",
+  "buildCommand": "yarn --cwd frontend build",
+  "outputDirectory": "frontend/build"
+}
+
