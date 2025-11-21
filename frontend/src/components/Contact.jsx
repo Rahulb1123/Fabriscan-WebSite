@@ -237,7 +237,7 @@ function ContactPage() {
                   className="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
                 />
                 <label htmlFor="subscribe" className="text-sm text-gray-600">
-                  Sign me up for email, updates, valuable resources, and helpful tips from Relevance Lab. Subscription implies consent to our 
+                  Sign me up for email, updates, valuable resources, and helpful tips from FabriScan. Subscription implies consent to our 
                   <a href="#" className="text-blue-600 hover:underline">Privacy Policy</a>.
                 </label>
               </div>
